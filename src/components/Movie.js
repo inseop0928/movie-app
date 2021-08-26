@@ -42,4 +42,4 @@ Movie.prototype = {
     genres:PropTypes.arrayOf(PropTypes.string).isRequired
 };
 
-export default Movie;`
+export default Movie;
